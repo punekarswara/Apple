@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76852cd0.css",
+    "main.js": "/static/js/main.ff7cc277.js",
+    "static/media/watch.jpg": "/static/media/watch.0f483983dd0dfe8a096b.jpg",
+    "static/media/promo_edu__efkxh2h1luoi_medium.jpg": "/static/media/promo_edu__efkxh2h1luoi_medium.fae5e6dff2355f61f8cd.jpg",
+    "static/media/689x387 (1).jpg": "/static/media/689x387 (1).4826e87a6872ce769ba5.jpg",
+    "static/media/689x387 (2).jpg": "/static/media/689x387 (2).9bd4a03ba509f9c155fd.jpg",
+    "static/media/689x387.jpg": "/static/media/689x387.2db06c2bf59acb1320e5.jpg",
+    "static/media/iphone14.jpg": "/static/media/iphone14.7ece80eb05eb475c6965.jpg",
+    "static/media/iphone142.jpg": "/static/media/iphone142.0f389184c377585cf99e.jpg",
+    "static/media/promo_apple_watch_series_8__ch7rexplmihe_large.jpg": "/static/media/promo_apple_watch_series_8__ch7rexplmihe_large.9c4adb4d8ebcce5317d3.jpg",
+    "static/media/promo_apple_watch_se_avail__e5unstfyokae_medium.jpg": "/static/media/promo_apple_watch_se_avail__e5unstfyokae_medium.f643d3060989e710a7e4.jpg",
+    "static/media/promo_airpods_pro_avail__gaxggskofx6y_large.jpg": "/static/media/promo_airpods_pro_avail__gaxggskofx6y_large.6e15dfce551585cf8276.jpg",
+    "static/media/design.png": "/static/media/design.dac21624d490a75ce03b.png",
+    "static/media/promo_macbookair__fywl7i82fueu_medium.png": "/static/media/promo_macbookair__fywl7i82fueu_medium.fe4be5506669287d2df5.png",
+    "static/media/apple.svg": "/static/media/apple.dba372651fd0a35a415917ad5b8531f1.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.a163e164a89f6b50f26be4b9d77f41ab.svg",
+    "static/media/bag.svg": "/static/media/bag.57280e749ba07ccf3e3af2557cc05dd2.svg",
+    "main.76852cd0.css.map": "/static/css/main.76852cd0.css.map",
+    "main.ff7cc277.js.map": "/static/js/main.ff7cc277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76852cd0.css",
+    "static/js/main.ff7cc277.js"
+  ]
+}
